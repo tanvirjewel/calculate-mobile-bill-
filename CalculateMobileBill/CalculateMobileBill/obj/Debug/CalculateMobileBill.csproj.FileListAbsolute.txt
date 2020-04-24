@@ -1,0 +1,7 @@
+C:\Users\tanvi\source\repos\CalculateMobileBill\CalculateMobileBill\bin\Debug\CalculateMobileBill.exe.config
+C:\Users\tanvi\source\repos\CalculateMobileBill\CalculateMobileBill\bin\Debug\CalculateMobileBill.exe
+C:\Users\tanvi\source\repos\CalculateMobileBill\CalculateMobileBill\bin\Debug\CalculateMobileBill.pdb
+C:\Users\tanvi\source\repos\CalculateMobileBill\CalculateMobileBill\obj\Debug\CalculateMobileBill.csprojResolveAssemblyReference.cache
+C:\Users\tanvi\source\repos\CalculateMobileBill\CalculateMobileBill\obj\Debug\CalculateMobileBill.csproj.CoreCompileInputs.cache
+C:\Users\tanvi\source\repos\CalculateMobileBill\CalculateMobileBill\obj\Debug\CalculateMobileBill.exe
+C:\Users\tanvi\source\repos\CalculateMobileBill\CalculateMobileBill\obj\Debug\CalculateMobileBill.pdb
